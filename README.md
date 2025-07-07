@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Arun Singh!
+## 👋 Hi there, I'm Arunsingh G!
 
 I'm a passionate **Full-Stack Developer** who specializes in building robust and scalable web apps using:
 
