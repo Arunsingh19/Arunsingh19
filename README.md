@@ -19,8 +19,8 @@ I'm a passionate **Full-Stack Developer** who specializes in building robust and
 - 🔭 I’m currently working on **full-stack web projects** using Django, FastAPI, and React
 - 🌱 Exploring **API-first design**, **async Python**, and **database optimization**
 - 💬 Ask me about Django REST Framework, backend architecture, or async APIs
-- 📫 Reach me at: **arunsingh@example.com**  
-- 🌍 Portfolio: [https://arunsingh.dev](https://arunsingh.dev)
+- 📫 Reach me at: **arunsingh19101999@gmail.com**  
+- 🌍 Portfolio: https://www.self.so/arunsingh-g-6uf8cr
 
 ---
 
