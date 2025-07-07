@@ -54,8 +54,3 @@ I'm a passionate **Full-Stack Developer** who specializes in building robust and
 > “Build APIs that scale, write code that lasts.”
 
 ---
-
-<!-- Optional fun animation at bottom -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arunsingh19/Arunsingh19/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
